@@ -1,0 +1,9 @@
+.venv/
+*.csv
+!outputs/*.csv
+*.zip
+.env
+.ipynb_checkpoints/
+__pycache__/
+sites_map.html
+cache/

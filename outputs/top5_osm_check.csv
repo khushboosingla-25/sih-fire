@@ -1,0 +1,6 @@
+site,days,n_features,nearest_kind,nearest_dist_m
+23.78_86.39,1305,2,landuse=quarry,0
+21.92_83.35,1289,5,landuse=industrial,0
+21.11_72.65,1288,11,landuse=industrial,0
+23.17_82.34,1236,1,landuse=quarry,17
+20.96_85.17,1223,3,landuse=quarry,0
